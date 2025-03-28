@@ -35,8 +35,17 @@
 
 .card {
   padding: 2em;
+  border: 3px solid #ff7200;
+  border-radius: 5px;
+  margin: 5px;
 }
 
 .read-the-docs {
   color: #888;
+}
+
+.cards{
+  margin: 10px;
+  border: 2px solid #910e0e;
+  border-radius: 2px;
 }
